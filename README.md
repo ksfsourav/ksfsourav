@@ -1,6 +1,6 @@
 ---
 Name: Sourav Mulick
-Date Of Birth: '16-88-1999'
+Date Of Birth: '16-08-1999'
 Current Company Name: Mahagram Payments Pvt Ltd
 Designation: Programmer Analyst
 githubUsername: 'ksfsourav'
