@@ -15,7 +15,7 @@ githubUsername: 'ksfsourav'
 <p><em>Laravel and React Js at <a href="https://mahagram.in/">Mahagram Payments Pvt Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Sourav](https://img.shields.io/badge/-Sourav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourav-mullick-109154179/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Sourav](https://img.shields.io/badge/-Sourav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourav-mullick-109154179/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/sourav-mullick-109154179/))
 [![GitHub Sourav](https://img.shields.io/github/followers/ksfsourav?label=follow&style=social)](https://github.com/ksfsourav)
 
 
